@@ -3,7 +3,7 @@
 ## Overview of Project
 
 ### Purpose
-The purpose of this analysis is to provide Louise with analysis of previous Kickstarter campaigns so that she may be able to craft her campaign for success.
+The purpose of this analysis is to provide Louise with an analysis of previous Kickstarter campaigns so that she may be able to craft her campaign for success.
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
