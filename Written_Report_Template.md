@@ -7,7 +7,8 @@ The purpose of this analysis is to provide Louise with analysis of previous Kick
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
+When considering all Theater Category launches, warm weather appears to align with the most launches of a successful campaign.  May, June and July had the highest numbers of successful campaigns, while April and August were pretty good, too.  From September to March, there were less successful campaigns, although February was not bad.
+![Outcomes Based on Launch Date](Outcomes_vs_Goals.png)
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
