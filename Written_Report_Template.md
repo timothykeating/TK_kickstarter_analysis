@@ -44,7 +44,7 @@ Another limitation of the anlaysis performed is that we looked at two different 
 I have created an additional Pivot Table, in an attempt to analyze Goals vs Outcomes of all Theater campaigns.  It is not a 1-to-1 combination of our two analyses, as mentioned above in the 'Limitations' section.  However, it is an attempt to compare Goals vs Outcomes on Theater campaigns.  I have Grouped the rows into groups of 5'000 to more easily see what is going on in the data.
 We can see that the maximum successful Goal for a Theater campaigns was in the range of 150'000-155'000.  By clicking on that number (the 1 highlighted in yellow in the Pivot Table in the image below), we are able to see all of the data about that campaign.  It was called "The Acro Cats Mobile Foster and Kitty Tour Bus" and the blurb feild reads: "Help support the Acro-Cats kitten and cat rescue and adoption effort! They need a bus to continue finding felines homes across the US."  That does not sound like a Theater campaign to me!  It seems that this campaign has been mis-labeled.  Therefore, I will go select the next-highest successful campaign, in the 115'000-120'000 range; again, I will click on that number (the 1 highlighted in orange in the Pivot Table in the image below) to see the details.  The campaign is named "Build the House of Dad's!" and the blurb reads: "Dad's Garage Theatre Company needs your help buying our new, forever home by hitting our $150,000 STRETCH GOAL!"  
 There we have it - a (real!) theater campaign, whose goal was 116'000 and was successful.  This was the campaign in our dataset for the Theater Category that had the maximum Goal.
-
+![Dads Garage Theater](Dads Garage Theater.png)
 
 
 
