@@ -1,3 +1,3 @@
 # An Analysis of Kickstarter Campaigns
 ## Prepared for Louise by Timothy Keating 2021-09-17
-![timmah](C:\Users\timot\OneDrive\Desktop\timmmmah.png)
+![timmah] (C:\Users\timot\OneDrive\Desktop\timmmmah.png)
